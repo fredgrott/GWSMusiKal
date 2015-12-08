@@ -107,8 +107,8 @@ allprojects {
         uiautoVersionCode = 1
         uiautoVersionName = "1.0.0.0"
 
-        uicommonAndroidSdkCompileVersion = 23
-        uicommonAnddroidBuildToolsVersion = '23.0.2'
+        uicommonAndroidCompileSdkVersion = 23
+        uicommonAndroidBuildToolsVersion = '23.0.2'
         uicommonAndroidMinSdkVersion = 17
         uicommonAndroidTargetSdkVersion = 23
         uicommonVersionCode = 1
