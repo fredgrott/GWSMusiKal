@@ -55,6 +55,7 @@ allprojects {
 
         testInstrumentRunner = "android.support.test.runner.AndroidJUnitRunner"
 
+        //app modules
         fullnoteAndroidCompileSdkVersion = 23
         fullnoteAndroidBuildToolsVersion = '23.0.2'
         fullnoteAndroidMinSdkVersion = 21
@@ -91,12 +92,29 @@ allprojects {
         quarternoteTestApplicationId = 'com.github.shareme.gwsmusikal.quarternote.test'
 
 
+        //library modules
         commonAndroidCompileSdkVersion = 23
         commonAndroidBuildToolsVersion = '23.0.2'
         commonAndroidMinSdkVersion = 17
         commonAndroidTargetSdkVersion = 23
         commonVersionCode = 1
         commonVersionName = "1.0.0.0"
+
+        uiautoAndroidCompileSdkVersion = 23
+        uiautoAndroidBuildToolsVersion = '23.0.2'
+        uiautoAndroidMinSdkVersion = 21
+        uiautoAndroidTargetSdkVersion = 23
+        uiautoVersionCode = 1
+        uiautoVersionName = "1.0.0.0"
+
+        uicommonAndroidSdkCompileVersion = 23
+        uicommonAnddroidBuildToolsVersion = '23.0.2'
+        uicommonAndroidMinSdkVersion = 17
+        uicommonAndroidTargetSdkVersion = 23
+        uicommonVersionCode = 1
+        uicommonVersionName = "1.0.0.0"
+
+
 
         /*
         Compute Date and time for reports, right from
