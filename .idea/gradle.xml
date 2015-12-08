@@ -11,12 +11,26 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/common" />
+            <option value="$PROJECT_DIR$/fullnote" />
+            <option value="$PROJECT_DIR$/halfnote" />
+            <option value="$PROJECT_DIR$/musikalwear" />
+            <option value="$PROJECT_DIR$/quartenote" />
+            <option value="$PROJECT_DIR$/uiauto" />
+            <option value="$PROJECT_DIR$/uicommon" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/common" />
+            <option value="$PROJECT_DIR$/fullnote" />
+            <option value="$PROJECT_DIR$/halfnote" />
+            <option value="$PROJECT_DIR$/musikalwear" />
+            <option value="$PROJECT_DIR$/quartenote" />
+            <option value="$PROJECT_DIR$/uiauto" />
+            <option value="$PROJECT_DIR$/uicommon" />
           </set>
         </option>
       </GradleProjectSettings>

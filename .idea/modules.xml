@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GWSMusiKal.iml" filepath="$PROJECT_DIR$/GWSMusiKal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fullnote/fullnote.iml" filepath="$PROJECT_DIR$/fullnote/fullnote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/halfnote/halfnote.iml" filepath="$PROJECT_DIR$/halfnote/halfnote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/musikalwear/musikalwear.iml" filepath="$PROJECT_DIR$/musikalwear/musikalwear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quartenote/quartenote.iml" filepath="$PROJECT_DIR$/quartenote/quartenote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uiauto/uiauto.iml" filepath="$PROJECT_DIR$/uiauto/uiauto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uicommon/uicommon.iml" filepath="$PROJECT_DIR$/uicommon/uicommon.iml" />
+    </modules>
+  </component>
+</project>
