@@ -1,1 +1,1 @@
-include ':app', ':uiauto', ':uicommon', ':halfnote', ':fullnote', ':common', ':musikalwear', ':quartenote'
+include ':app', ':uiauto', ':uicommon', ':halfnote', ':fullnote', ':common', ':musikalwear', ':quartenote', ':musikalauto'

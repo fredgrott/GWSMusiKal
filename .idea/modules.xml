@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/fullnote/fullnote.iml" filepath="$PROJECT_DIR$/fullnote/fullnote.iml" />
       <module fileurl="file://$PROJECT_DIR$/halfnote/halfnote.iml" filepath="$PROJECT_DIR$/halfnote/halfnote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/musikalauto/musikalauto.iml" filepath="$PROJECT_DIR$/musikalauto/musikalauto.iml" />
       <module fileurl="file://$PROJECT_DIR$/musikalwear/musikalwear.iml" filepath="$PROJECT_DIR$/musikalwear/musikalwear.iml" />
       <module fileurl="file://$PROJECT_DIR$/quartenote/quartenote.iml" filepath="$PROJECT_DIR$/quartenote/quartenote.iml" />
       <module fileurl="file://$PROJECT_DIR$/uiauto/uiauto.iml" filepath="$PROJECT_DIR$/uiauto/uiauto.iml" />
