@@ -91,6 +91,12 @@ allprojects {
         quarternoteTestApplicationId = 'com.github.shareme.gwsmusikal.quarternote.test'
 
 
+        commonAndroidCompileSdkVersion = 23
+        commonAndroidBuildToolsVersion = '23.0.2'
+        commonAndroidMinSdkVersion = 17
+        commonAndroidTargetSdkVersion = 23
+        commonVersionCode = 1
+        commonVersionName = "1.0.0.0"
 
         /*
         Compute Date and time for reports, right from
