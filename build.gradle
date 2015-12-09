@@ -93,12 +93,29 @@ allprojects {
 
 
         //library modules
+        amazonflingAndroidCompileSdkVersion = 23
+        amazonflingAndroidBuildToolsVersion = '23.0.2'
+        amazonflingAndroidMinSdkVersion = 17
+        amazonflingAndroidTargetSdkVersion = 23
+        amazonflingVersionCode = 1
+        amazonflingVersionName = "1.0.0.0"
+
+
+
+
         commonAndroidCompileSdkVersion = 23
         commonAndroidBuildToolsVersion = '23.0.2'
         commonAndroidMinSdkVersion = 17
         commonAndroidTargetSdkVersion = 23
         commonVersionCode = 1
         commonVersionName = "1.0.0.0"
+
+        googlecastAndroidCompileSdkVersion = 23
+        googlecastAndroidBuildToolsVersion = '23.0.2'
+        googlecastAndroidMinSdkVersion = 17
+        googlecastAndroidTargetSdkVersion = 23
+        googlecastVersionCode = 1
+        googlecastVersionName = "1.0.0.0"
 
         uiautoAndroidCompileSdkVersion = 23
         uiautoAndroidBuildToolsVersion = '23.0.2'

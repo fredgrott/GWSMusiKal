@@ -3,9 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GWSMusiKal.iml" filepath="$PROJECT_DIR$/GWSMusiKal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/amazonfling/amazonfling.iml" filepath="$PROJECT_DIR$/amazonfling/amazonfling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/amazonflingforgoogle/amazonflingforgoogle.iml" filepath="$PROJECT_DIR$/amazonflingforgoogle/amazonflingforgoogle.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/fullnote/fullnote.iml" filepath="$PROJECT_DIR$/fullnote/fullnote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/googlecast/googlecast.iml" filepath="$PROJECT_DIR$/googlecast/googlecast.iml" />
       <module fileurl="file://$PROJECT_DIR$/halfnote/halfnote.iml" filepath="$PROJECT_DIR$/halfnote/halfnote.iml" />
       <module fileurl="file://$PROJECT_DIR$/musikalauto/musikalauto.iml" filepath="$PROJECT_DIR$/musikalauto/musikalauto.iml" />
       <module fileurl="file://$PROJECT_DIR$/musikalwear/musikalwear.iml" filepath="$PROJECT_DIR$/musikalwear/musikalwear.iml" />

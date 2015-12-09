@@ -10,9 +10,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/amazonfling" />
+            <option value="$PROJECT_DIR$/amazonflingforgoogle" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/common" />
             <option value="$PROJECT_DIR$/fullnote" />
+            <option value="$PROJECT_DIR$/googlecast" />
             <option value="$PROJECT_DIR$/halfnote" />
             <option value="$PROJECT_DIR$/musikalauto" />
             <option value="$PROJECT_DIR$/musikalwear" />
@@ -25,9 +28,12 @@
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/amazonfling" />
+            <option value="$PROJECT_DIR$/amazonflingforgoogle" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/common" />
             <option value="$PROJECT_DIR$/fullnote" />
+            <option value="$PROJECT_DIR$/googlecast" />
             <option value="$PROJECT_DIR$/halfnote" />
             <option value="$PROJECT_DIR$/musikalauto" />
             <option value="$PROJECT_DIR$/musikalwear" />
